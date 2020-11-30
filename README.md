@@ -2,10 +2,10 @@
 This is a **quick tutorial**, check here for the [demo](https://aldopolojr.github.io/card-hover/)
 
 ## Notes
-- …
+- transition-delay
 
 ## Source
 [https://youtu.be/8b2mTq0Xrtw](https://youtu.be/8b2mTq0Xrtw)
 
 ## Tags
-#HTML #CSS #ResponsiveDesign 
+#HTML #CSS #ResponsiveDesign #Animation
